@@ -1,0 +1,12 @@
+{
+  "name": "realm",
+  "version": "0.0.1"
+  "main": "dist/realm.js",
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "package.json",
+    "README.md"
+  ]
+}

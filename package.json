@@ -1,0 +1,20 @@
+{
+  "name": "realm",
+  "version": "0.0.1",
+  "description": "Realm JavaScript helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/part/realm.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us> (http://jameymcelveen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/part/realm/issues"
+  },
+  "homepage": "https://github.com/part/realm#readme"
+}
