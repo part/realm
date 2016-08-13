@@ -6,6 +6,16 @@
   "scripts": {
     "test": "node ./test/index.js"
   },
+  "engines": {
+    "node": ">=4"
+  },
+  "bin": {
+    "realm": "cli.js"
+  },
+  "files": [
+    "dist",
+    "cli.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/part/realm.git"

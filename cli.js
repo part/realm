@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * Created by Jamey McElveen on 8/12/16.
  */
